@@ -8,7 +8,7 @@
 <td width="50%" align="left">
   
 
-🧑‍🎓 Soy estudiante de Análisis y Desarrollo de Software, apasionado por explorar el mundo del desarrollo web y mejorar mis habilidades en el área.
+🧑‍🎓 Soy desarrollador web, apasionado por explorar el mundo del desarrollo web y mejorar mis habilidades en el área.
 
 💬 ¡Háblame sobre desarrollo web!
 
